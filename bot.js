@@ -2,7 +2,7 @@
 const { Bot, session, InputFile } = require('grammy');
 
 const token = '8059173409:AAGDCaC3YWFVARizM-shzllGyyGC0Vj8GuY';
-const groupId = '-4883402981'; // Например: -1001234567890
+const groupId = '-1003136848013'; // Например: -1001234567890
 
 
 const bot = new Bot(token);
